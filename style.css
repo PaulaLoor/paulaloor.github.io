@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+* {margin: 0;
+	padding: 0;
+	font-family: shadows into light;
+   }
+
+.container-fluid {
+    padding-top: 80px;
+    padding-bottom: 80px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.parte1 {
+       background-color: black;
+        color: #ffffff;
+    }
+
+.parte2 {
+      background-color: #018568;/* naranja */
+      color: #ffffff;
+	  font-size: 20pt;
+	 z-index: 2;
+  }
+
+  .parte3 {
+      background-color: #ffffff; /* White */
+      color: black;
+	  font-size: 14pt;
+  }
+.imagenes{
+	margin: 0;
+	padding: 0;}
+
+ .navbar {
+	color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0px;
+    font-size: 18px;
+    letter-spacing: 3px;
+	
+}
+
+.navbar-nav li a:hover {
+    color: #196D5B !important;
+}
+
+.navbar-default
+{position: fixed;
+z-index: 3;} 
+
+.imagesection{
+	align-content: center;
+	position: fixed; 
+	z-index: 1;}
+.casillas{text-align: center;
+font-size: 28px;}
+#mihist oria {
+}
+#laciudad {
+}
